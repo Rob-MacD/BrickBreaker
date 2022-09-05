@@ -1,35 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc165e6-bb16-450b-8701-3859b7b469bb" name="Changes" comment="" />
+    <list default="true" id="3bc165e6-bb16-450b-8701-3859b7b469bb" name="Changes" comment="Game 99% complete.&#10;Need to display lives on screen.&#10;Would like to add power ups.">
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Actors/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Actors/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Actors/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Input/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Input/MouseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Window/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Engine/Window/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rob/BrickBreaker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brickbreak/rob/BasicEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brickbreak/rob/Window.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EI5fNfQwozr8caPPrqTvbZ5z6Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="BrickBreaker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.rob.BrickBreaker.Main" />
+      <module name="BrickBreaker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc165e6-bb16-450b-8701-3859b7b469bb" name="Changes" comment="" />
       <created>1662270362313</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662270362313</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Game 99% complete.&#10;Need to display lives on screen.&#10;Would like to add power ups." />
+    <option name="LAST_COMMIT_MESSAGE" value="Game 99% complete.&#10;Need to display lives on screen.&#10;Would like to add power ups." />
   </component>
 </project>
