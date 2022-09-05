@@ -19,3 +19,4 @@ To-Do:
   - Implement power-ups.
   - Make new levels, perhaps a random level generator.
   - Make a custom level maker, where player can design their own levels.
+  - Clean up the code. Good god what a mess.
